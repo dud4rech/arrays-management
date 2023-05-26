@@ -2,7 +2,7 @@
 
 <h2>Description</h2>
 
-The project entitled Arrays management was developed in partnership with Ana Beatriz Martins for the Programming Language course of the Systems Analysis and Development program at UDESC.
+The project entitled Arrays management was developed in partnership with [Ana Beatriz Martins](https://github.com/anatrizms) for the Programming Language course of the Systems Analysis and Development program at UDESC.
 
 The objective of the project is to implement a program that manages a determined quantity of arrays of integer values. The model consists of using an MxN matrix, where M and N are constants. Each row of the matrix is used to represent an array of values, and the program must guarantee that the matrix limits are not exceeded. Therefore, it should not be possible to create more than M arrays, and each array cannot have more than N values. The matrix must be initialized with zeros, indicating that it is empty. Zero, therefore, is not considered a valid value.
 
