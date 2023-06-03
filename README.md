@@ -1,6 +1,6 @@
-<h1>📁 Arrays management</h1>
+<h2>📁 Arrays management</h2>
 
-<h2>Description</h2>
+<h3>Description</h3>
 
 The project entitled Arrays management was developed in partnership with [Ana Beatriz Martins](https://github.com/anatrizms) for the Programming Language course of the Systems Analysis and Development program at UDESC.
 
